@@ -1,0 +1,17 @@
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\scgridcalc.exe
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\scgridcalc.deps.json
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\scgridcalc.runtimeconfig.json
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\scgridcalc.runtimeconfig.dev.json
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\scgridcalc.dll
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\ref\scgridcalc.dll
+C:\Users\yuiko\source\repos\scgridcalc\bin\Release\net5.0-windows\scgridcalc.pdb
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.Form1.resources
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.csproj.GenerateResource.cache
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.AssemblyInfoInputs.cache
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.AssemblyInfo.cs
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.csproj.CoreCompileInputs.cache
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.dll
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\ref\scgridcalc.dll
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.pdb
+C:\Users\yuiko\source\repos\scgridcalc\obj\Release\net5.0-windows\scgridcalc.genruntimeconfig.cache

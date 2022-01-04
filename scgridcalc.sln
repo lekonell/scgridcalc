@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scgridcalc", "scgridcalc.csproj", "{E662AAAF-B337-4470-AB94-209FA276DF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E662AAAF-B337-4470-AB94-209FA276DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E662AAAF-B337-4470-AB94-209FA276DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E662AAAF-B337-4470-AB94-209FA276DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E662AAAF-B337-4470-AB94-209FA276DF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59EBBA19-2466-4605-9FCF-1DABBF4EC8DC}
+	EndGlobalSection
+EndGlobal
